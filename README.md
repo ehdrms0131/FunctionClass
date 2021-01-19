@@ -1,2 +1,2 @@
 # Functionclass
-기능대회 
+기능전수
